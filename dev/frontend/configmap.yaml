@@ -7,7 +7,7 @@ data:
   index.html: |
     <html>
     <body>
-      <h1>Hello Francisco! Kubernetes Ingress is working!</h1>
+      <h1>Hello Francisco! Kubernetes is working!</h1>
+      <p>Frontend talking to backend at <a href="/backend">backend</a></p>
     </body>
     </html>
-
